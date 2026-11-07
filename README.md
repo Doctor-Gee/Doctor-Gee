@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Dr. G 👋
 
-<!--
-**Doctor-Gee/Doctor-Gee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help people build practical cybersecurity and AI (CyberAI) skills through BBR Academy and our free online FutureMakers community. I have a team that works alongside me, and I do my best to support them so they can do their best work.
 
-Here are some ideas to get you started:
+If you’re building your first cybersecurity portfolio, dabbling into incorporating more AI into your day-to-day, or are someone who is bringing experience from another career into tech, welcome. Your experience in customer service, operations, retail, project management, and other fields can strengthen how you investigate problems, communicate findings, and make decisions. CyberAI is for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Building your portfolio?
+
+Our free labs give you opportunities to practice and document your thinking:
+
+- Investigate security events and explain what the evidence supports.
+- Map a system, identify threats, and recommend safeguards.
+- Make risk decisions and explain where AI can help and where people need to make the call.
+
+**[Explore the free FutureMakers labs](https://github.com/Doctor-Gee/futuremakers-labs)**
+
+## Learn alongside other people
+
+FutureMakers brings together people practicing cybersecurity and AI skills. Join us for practice tickets, discussions, learning resources, and opportunities to share what you’re working on.
+
+**[Join the free FutureMakers community](https://portal.bbracademy.org/communities/groups/cyberai-f-initiative/home?invite=6ab4a8feeb5c67284e784ce7&utm_source=github)**
+
+We do help people get into paid apprenticeship programs, as well as direct hire opportunities. You can participate without buying a bootcamp or anything. Buying training does not affect apprenticeship or hiring consideration. Come level up with us!
